@@ -3,7 +3,7 @@
 <!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:7b2ff7,100:00f5ff&height=220&section=header&text=Rhythm%20Gupta&fontSize=70&fontColor=00f5ff&fontAlignY=38&desc=DevOps%20Engineer%20in%20the%20Making%20%7C%20Cloud%20Architect%20%7C%20Builder&descAlignY=58&descSize=18&descColor=ffffff&animation=twinkling" width="100%"/>
 
-<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
+<!-- ═══════════════════ TYPING ANIMATION  ═══════════════════ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=800&height=60&lines=%F0%9F%9A%80+Turning+Coffee+into+Cloud+Infrastructure;%F0%9F%90%A7+Automating+everything+that+can+be+automated;%F0%9F%94%A5+DevOps+%7C+Linux+%7C+AWS+%7C+Docker+%7C+CI%2FCD;%E2%9A%A1+B.Tech+CSE+%E2%86%92+Cloud+%26+DevOps+Engineer;%F0%9F%8C%90+Building+Systems+That+Don%27t+Break+at+3AM" alt="Typing SVG" />
 </a>
