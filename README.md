@@ -38,7 +38,7 @@ location    : India 🇮🇳
 status      : B.Tech CSE — Semester 4
 focus       : Linux → Docker → AWS -> Kubernetes → CI/CD
 superpower  : Building things that actually work
-currently   : Grinding DevOps roadmap |
+currently   : Grinding to become DevOps engineer |
 fun_fact    : My best code is written between 10 PM – 2 AM 🦉
 ```
 
