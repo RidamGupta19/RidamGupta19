@@ -114,7 +114,7 @@ fun_fact    : My best code is written between 10 PM – 2 AM 🦉
 
 > **Drag. Drop. Done.**
 
-A slick file management tool built for speed and simplicity. Drop files in, get things organized — no friction, no fuss.
+A slick file management tool built for speed and simplicity. Drop files in, get things organized — no friction, no fuss. it generate a sharable link,just copy it to share
 
 ![Stars](https://img.shields.io/github/stars/rhythmgupta19/DropZone?style=flat-square&color=00f5ff&labelColor=0d0d1a)
 ![Forks](https://img.shields.io/github/forks/rhythmgupta19/DropZone?style=flat-square&color=7b2ff7&labelColor=0d0d1a)
