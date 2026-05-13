@@ -24,6 +24,7 @@ currently   : Grinding to become DevOps engineer |
 fun_fact    : My best code is written between 10 PM – 2 AM 🦉
 I value **discipline**, **consistency**, and **practical execution** over theory alone.
 
+<br clear="right"/>
 ---
 
 
