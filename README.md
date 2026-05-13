@@ -1,24 +1,27 @@
-<div align="center">
+<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:7b2ff7,100:00f5ff&height=220&section=header&text=Rhythm%20Gupta&fontSize=70&fontColor=00f5ff&fontAlignY=38&desc=DevOps%20Engineer%20in%20the%20Making%20%7C%20Cloud%20Architect%20%7C%20Builder&descAlignY=58&descSize=18&descColor=ffffff&animation=twinkling" width="100%"/>
 
-# 👋 Rhythm Gupta
-
-<a href="https://github.com/rhythmgupta19">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Engineering+Student;Cloud+%2F+DevOps+Engineer+in+Progress;Building+Strong+Fundamentals;Linux+%26+Cloud+Enthusiast" alt="Typing SVG" />
+<!-- ═══════════════════ TYPING ANIMATION  ═══════════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=800&height=60&lines=%F0%9F%9A%80+Turning+Coffee+into+Cloud+Infrastructure;%F0%9F%90%A7+Automating+everything+that+can+be+automated;%F0%9F%94%A5+DevOps+%7C+Linux+%7C+AWS+%7C+Docker+%7C+CI%2FCD;%E2%9A%A1+B.Tech+CSE+%E2%86%92+Cloud+%26+DevOps+Engineer;%F0%9F%8C%90+Building+Systems+That+Don%27t+Break+at+3AM" alt="Typing SVG" />
 </a>
-
 ---
 
-## 🚀 About Me
+## `> whoami
 
-I'm an engineering student passionate about **Cloud Engineering** and **DevOps**. I believe in building strong fundamentals through hands-on learning and real-world projects. My focus is on understanding systems deeply, not just passing exams.
+bash
+$ cat about_me.yaml
 
-Currently strengthening my skills in:
-- **Java DSA** for solid problem-solving foundations
-- **Linux & Networking** for system-level thinking
-- **Docker & Containerization** for modern deployment practices
-- **AWS & Cloud Computing** for scalable infrastructure
-- **Backend Development** with Python and Java
 
+yaml
+name        : Rhythm Gupta
+role        : DevOps & Cloud Engineer (In Progress)
+location    : India 🇮🇳
+status      : B.Tech CSE — Semester 4
+focus       : Linux → Docker → AWS -> Kubernetes → CI/CD
+superpower  : Building things that actually work
+currently   : Grinding to become DevOps engineer |
+fun_fact    : My best code is written between 10 PM – 2 AM 🦉
 I value **discipline**, **consistency**, and **practical execution** over theory alone.
 
 ---
@@ -60,42 +63,24 @@ I value **discipline**, **consistency**, and **practical execution** over theory
 
 ---
 
-## 📚 Current Learning Path
+<!-- ═══════════════════ CURRENT LEARNING ROADMAP ═══════════════════ -->
 
-```
-├── Java DSA
-│   ├── Arrays, Strings, LinkedLists
-│   ├── Trees & Graphs
-│   ├── Sorting & Searching
-│   └── Competitive Programming
-│
-├── Linux & Shell Scripting
-│   ├── File System & Permissions
-│   ├── Process Management
-│   ├── Bash Scripting
-│   └── Networking Basics
-│
-├── Docker Fundamentals
-│   ├── Containers & Images
-│   ├── Dockerfile Best Practices
-│   └── Docker Compose
-│
-├── MySQL Database Management
-│   ├── Relational Database Design
-│   ├── Queries & Optimization
-│   └── Normalization
-│
-├── Git & GitHub Workflows
-│   ├── Version Control
-│   ├── GitHub Actions
-│   └── Collaboration
-│
-└── Cloud & DevOps Fundamentals
-    ├── AWS Basics
-    ├── Infrastructure as Code
-    └── Monitoring & Logging
-```
+## >roadmap.sh
 
+<div align="center">
+
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    🛣️  DEVOPS LEARNING PIPELINE                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Phase 1  ██████████  Linux & Networking     ✅  ACTIVE          ║
+║  Phase 2  ████░░░░░░  AWS (Solutions Arch.)  🔄  IN PROGRESS     ║
+║  Phase 3  ██░░░░░░░░  Docker & Containers    ⏳  NEXT UP         ║
+║  Phase 4  ░░░░░░░░░░  Kubernetes             ⏳  QUEUED          ║
+║  Phase 5  ░░░░░░░░░░  CI/CD + Terraform      ⏳  QUEUED          ║
+║  Phase 6  ░░░░░░░░░░  Monitoring & Security  ⏳  QUEUED          ║
+╚══════════════════════════════════════════════════════════════════╝
+---
 ---
 
 ## 📊 GitHub Statistics
