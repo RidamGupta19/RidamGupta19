@@ -166,7 +166,7 @@ A Python automation tool that silently watches your downloads folder and sorts f
   <img src="https://raw.githubusercontent.com/rhythmgupta19/rhythmgupta19/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> 💡 **To enable snake animation:** Go to your profile repo → Actions → Enable the [snake workflow](https://github.com/Platane/snk) 
+![snake gif](https://github.com/rhythmgupta19/rhythmgupta19/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
