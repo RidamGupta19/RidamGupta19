@@ -5,12 +5,11 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+Cloud+Infrastructure+%F0%9F%9A%80;Automating+Everything+I+Can+%E2%9A%99%EF%B8%8F;Learning+DevOps+%E2%80%94+One+Stack+at+a+Time+%F0%9F%93%A6;Future+Infrastructure+Architect+%F0%9F%8C%90;Night+Owl+Coder+%7C+10PM+%E2%80%94+2AM+%F0%9F%A6%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Cloud+Infrastructure+%F0%9F%9A%80;Automating+Everything+I+Can+%E2%9A%99%EF%B8%8F;Learning+DevOps+%E2%80%94+One+Stack+at+a+Time+%F0%9F%93%A6;Future+Infrastructure+Architect+%F0%9F%8C%90;Night+Owl+Coder+%7C+10PM+%E2%80%94+2AM+%F0%9F%A6%89" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- CONTACT BADGES -->
 <a href="https://github.com/rhythmgupta19">
   <img src="https://img.shields.io/badge/GitHub-rhythmgupta19-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a0a2e&color=001a4d" />
 </a>
@@ -23,7 +22,6 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS + STATUS -->
 <img src="https://komarev.com/ghpvc/?username=rhythmgupta19&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&labelColor=0a0a2e" />
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-00d4ff?style=for-the-badge&labelColor=0a0a2e" />
 <img src="https://img.shields.io/badge/LOCATION-India%20%F0%9F%87%AE%F0%9F%87%B3-7b8fd4?style=for-the-badge&labelColor=0a0a2e" />
@@ -34,7 +32,7 @@
 
 ---
 
-## `$ whoami`
+## About Me
 
 ```bash
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -48,18 +46,16 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-I'm a Computer Science student focused on becoming a professional Cloud & DevOps Engineer.  
+I'm a Computer Science student focused on becoming a professional Cloud & DevOps Engineer.
 My work is centered on **infrastructure automation**, **cloud systems**, and **developer tooling** — building things that are reliable, repeatable, and scalable.
 
 I learn by building. Every project here is a real artifact of that process.
 
 ---
 
-## `$ cat current_mission.txt`
+## Current Mission
 
 ```yaml
-# CURRENT_MISSION.yml
----
 primary_objective: Become a professional Cloud & DevOps Engineer
 current_focus:
   - Linux administration & scripting
@@ -77,7 +73,7 @@ internship_status: OPEN
 
 ---
 
-## `$ cat roadmap.sh`
+## Learning Roadmap
 
 <div align="center">
 
@@ -105,7 +101,7 @@ internship_status: OPEN
 
 ---
 
-## `$ ls tech_arsenal/`
+## Tech Arsenal
 
 <div align="center">
 
@@ -139,7 +135,53 @@ internship_status: OPEN
 
 ---
 
-## `$ ls projects/ --detail`
+## Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌾 [Smart Krishi](https://github.com/rhythmgupta19/Smart_Krishi)
+
+```
+PROJECT  : Smart Krishi
+TYPE     : Agri-Tech Platform
+STATUS   : 🔧 Under Development
+```
+
+An intelligent agriculture platform built to bridge the gap between modern technology and farming. Designed to help farmers make smarter, data-driven decisions — from crop planning to real-time monitoring.
+
+[![Repo](https://img.shields.io/badge/View_Repo-00d4ff?style=flat-square&logo=github&logoColor=black)](https://github.com/rhythmgupta19/Smart_Krishi)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🚀 [CareerForge](https://github.com/rhythmgupta19/CareerForge)
+
+```
+PROJECT  : CareerForge
+TYPE     : Educational Platform
+STACK    : React · Node.js · MongoDB
+STATUS   : ✅ Deployed
+```
+
+A career roadmap platform for engineering students, covering 14 technology domains including DevOps, Cloud, AI/ML, Web Dev, and more. Built with a dark cyberpunk aesthetic and structured learning paths.
+
+[![Repo](https://img.shields.io/badge/View_Repo-00d4ff?style=flat-square&logo=github&logoColor=black)](https://github.com/rhythmgupta19/CareerForge)
+![Status](https://img.shields.io/badge/Status-Deployed-00d4ff?style=flat-square)
+
+</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Minor Projects
 
 <div align="center">
 
@@ -150,21 +192,13 @@ internship_status: OPEN
 ### 📦 [DropZone](https://github.com/rhythmgupta19/DropZone)
 
 ```
-PROJECT  : DropZone
-TYPE     : File Sharing Platform
-STACK    : Python / Flask
-STATUS   : Deployed ✓
+TYPE  : File Sharing Utility
+STACK : Python / Flask
 ```
 
-A modern drag-and-drop file sharing platform. Generates shareable UUID links instantly with password protection and auto-expiry. Built for fast, frictionless file distribution.
+Drag-and-drop file sharing platform. Generates shareable UUID links with password protection and auto-expiry.
 
-**Key Features:**
-- Shareable UUID links
-- Password protection
-- Auto-expiry system
-- Clean, minimal UI
-
-[![Repo](https://img.shields.io/badge/View_Repo-00d4ff?style=flat-square&logo=github&logoColor=black)](https://github.com/rhythmgupta19/DropZone)
+[![Repo](https://img.shields.io/badge/View_Repo-7b8fd4?style=flat-square&logo=github&logoColor=white)](https://github.com/rhythmgupta19/DropZone)
 
 </td>
     <td width="50%" valign="top">
@@ -172,21 +206,13 @@ A modern drag-and-drop file sharing platform. Generates shareable UUID links ins
 ### 🗂️ [Lazy Downloads Organizer](https://github.com/rhythmgupta19/lazy-downloads-organizer)
 
 ```
-PROJECT  : Lazy Downloads Organizer
-TYPE     : Automation Utility
-STACK    : Python
-STATUS   : Active ✓
+TYPE  : Automation Script
+STACK : Python
 ```
 
-A Python automation utility that monitors the Downloads folder continuously and auto-sorts files into categorized directories. Set it and forget it.
+Monitors the Downloads folder continuously and auto-sorts files into categorized directories. Set it and forget it.
 
-**Key Features:**
-- Real-time folder monitoring
-- Auto-categorization
-- Zero manual effort
-- Configurable rules
-
-[![Repo](https://img.shields.io/badge/View_Repo-00d4ff?style=flat-square&logo=github&logoColor=black)](https://github.com/rhythmgupta19/lazy-downloads-organizer)
+[![Repo](https://img.shields.io/badge/View_Repo-7b8fd4?style=flat-square&logo=github&logoColor=white)](https://github.com/rhythmgupta19/lazy-downloads-organizer)
 
 </td>
   </tr>
@@ -196,7 +222,7 @@ A Python automation utility that monitors the Downloads folder continuously and 
 
 ---
 
-## `$ cat github_stats.json`
+## GitHub Stats
 
 <div align="center">
 
@@ -214,7 +240,7 @@ A Python automation utility that monitors the Downloads folder continuously and 
 
 ---
 
-## `$ cat activity_graph.log`
+## Activity Graph
 
 <div align="center">
 
@@ -224,7 +250,37 @@ A Python automation utility that monitors the Downloads folder continuously and 
 
 ---
 
-## `$ crontab -l  # contribution snake`
+## Contribution Snake
+
+To enable this section, add the following GitHub Actions workflow to your repository at `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: rhythmgupta19
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Once the workflow runs once, the snake will appear here automatically:
 
 <div align="center">
 
@@ -238,39 +294,31 @@ A Python automation utility that monitors the Downloads folder continuously and 
 
 ---
 
-## `$ cat 2026_targets.md`
+## 2026 Engineering Targets
 
-```bash
-╔══════════════════════════════════════════════════════╗
-║              2026 ENGINEERING TARGETS                ║
-╠══════════════════════════════════════════════════════╣
-║  [ ] AWS Solutions Architect Associate — certified   ║
-║  [ ] Deploy 2 containerized apps on AWS ECS/EKS      ║
-║  [ ] Build a full CI/CD pipeline from scratch        ║
-║  [ ] Write Terraform IaC for a real environment      ║
-║  [ ] Contribute to 1 open source DevOps project      ║
-║  [ ] Land a Cloud/DevOps internship                  ║
-║  [ ] Complete Linux+ or equivalent                   ║
-╚══════════════════════════════════════════════════════╝
-```
+- [ ] AWS Solutions Architect Associate — certified
+- [ ] Deploy 2 containerized apps on AWS ECS/EKS
+- [ ] Build a full CI/CD pipeline from scratch
+- [ ] Write Terraform IaC for a real environment
+- [ ] Contribute to 1 open source DevOps project
+- [ ] Land a Cloud/DevOps internship
+- [ ] Complete Linux+ or equivalent
 
 ---
 
-## `$ cat devops_principles.txt`
+## Engineering Philosophy
 
-```
-01  Automate what you repeat.            Never do manually twice.
-02  Infrastructure is code.              Version it, review it, ship it.
-03  Fail fast, recover faster.           Design for resilience by default.
-04  Observability is not optional.       You can't fix what you can't see.
-05  Security is a day-one concern.       Not a post-launch patch.
-06  Simplicity scales.                   Complexity breaks.
-07  Documentation is discipline.         Future-you will thank current-you.
-```
+- Automate what you repeat. Never do manually twice.
+- Infrastructure is code. Version it, review it, ship it.
+- Fail fast, recover faster. Design for resilience by default.
+- Observability is not optional. You can't fix what you can't see.
+- Security is a day-one concern. Not a post-launch patch.
+- Simplicity scales. Complexity breaks.
+- Documentation is discipline. Future-you will thank current-you.
 
 ---
 
-## `$ ping contact`
+## Contact
 
 <div align="center">
 
