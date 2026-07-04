@@ -134,23 +134,6 @@ I'm not chasing shortcuts. I'm building a real foundation — one concept, one p
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RidamGupta19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=10b981&icon_color=0ea5e9&text_color=c9d1d9"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidamGupta19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RidamGupta19&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=0ea5e9&currStreakLabel=10b981"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
