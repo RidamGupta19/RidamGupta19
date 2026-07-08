@@ -19,7 +19,7 @@
 
 I'm a **Computer Science Engineering student** on a mission to master Cloud & DevOps engineering — from Linux fundamentals all the way to production Kubernetes clusters.
 
-I believe in one thing above all:
+Dont complain,Dont explain fuck the pain and rise again!!:
 
 > **Build consistently. Learn publicly. Ship often.**
 
