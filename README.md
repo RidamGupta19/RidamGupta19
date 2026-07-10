@@ -1,29 +1,57 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:10b981,50:0ea5e9,100:6366f1&text=Hey,%20I'm%20Ridam%20👋&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=CSE%20Student%20→%20Future%20Cloud%20%26%20DevOps%20Engineer&descAlignY=68&descSize=18"/>
+<img width="100%" src="./banner.svg"/>
 
 </div>
 
-<div align="center">
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-RidamGupta19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidamGupta19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ridam%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridam-gupta-73ab4b328)
-[![Email](https://img.shields.io/badge/Email-ridamg636@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridamg636@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=RidamGupta19&style=for-the-badge&color=10b981&label=VISITORS)](https://github.com/RidamGupta19)
+<table>
+<tr>
+<td valign="top" width="70%">
 
-</div>
+### Connect with me 👋
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Dev.to](https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridam-gupta-73ab4b328)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridamg636@gmail.com)
+
+### About Me 😊
+
+- 🎓 A CSE Sophomore (Sem 4) at Oriental Group of Institutes, Bhopal
+- ☁️ Code 💻 → Break 🐛 → Fix ✅ → Repeat 🔁, chasing a Cloud/DevOps career
+- 🧠 Sharpening Java, Python & DSA fundamentals daily
+- 🐳 Learning path: Linux → AWS → Docker → Kubernetes → Terraform → CI/CD
+- 🌙 Night owl — most of my real work happens late evening / early morning
+- 🚀 Currently building real projects: Smart Krishi, CareerForge, DropZone
+- 🎥 Exploring AI + content creation on the side
+- 📫 How to reach me: ridamg636@gmail.com
+
+</td>
+<td align="center" width="30%">
+
+<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Ridam&backgroundColor=b6e3f4" width="170"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 📊 Stats
 
-I'm a **Computer Science Engineering student** on a mission to master Cloud & DevOps engineering — from Linux fundamentals all the way to production Kubernetes clusters.
+<div align="center">
 
-Dont complain,Dont explain fuck the pain and rise again!!:
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=RidamGupta19&hide_border=true&background=0d0221&stroke=6a2fbd&ring=ec4899&fire=f472b6&currStreakLabel=e0e7ff&sideLabels=e0e7ff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af"/>
+<img height="165em" src="https://github-readme-stats-selfhosted-snowy.vercel.app/api?username=RidamGupta19&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ec4899&icon_color=f472b6&text_color=e0e7ff&ring_color=6a2fbd"/>
 
-> **Build consistently. Learn publicly. Ship often.**
+<img height="165em" src="https://github-readme-stats-selfhosted-snowy.vercel.app/api/top-langs/?username=RidamGupta19&layout=compact&hide_border=true&bg_color=0d0221&title_color=ec4899&text_color=e0e7ff&langs_count=8"/>
+<img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=RidamGupta19&bg_color=0d0221&color=f472b6&line=ec4899&point=ffffff&area=true&hide_border=true"/>
 
-I'm not chasing shortcuts. I'm building a real foundation — one concept, one project, one commit at a time.
+</div>
 
 ---
 
@@ -46,66 +74,18 @@ I'm not chasing shortcuts. I'm building a real foundation — one concept, one p
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,githubactions,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,githubactions,git&theme=dark" />
 </p>
 
 ### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,nodejs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,nodejs&theme=dark" />
 </p>
 
 ### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,vscode,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,github&theme=dark" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-selfhosted-snowy.vercel.app/api?username=RidamGupta19&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=34d399&text_color=c0caf5&ring_color=7aa2f7"/>
-<img height="180em" src="https://github-readme-stats-selfhosted-snowy.vercel.app/api/top-langs/?username=RidamGupta19&layout=compact&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8"/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidamGupta19&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=34d399&currStreakLabel=c0caf5&sideLabels=c0caf5&currStreakNum=c0caf5&sideNums=c0caf5&dates=6b7280"/>
-
-</div>
-
----
-
-## 🗺️ My Learning Path
-
-```
- START
-   │
-   ▼
- Linux & Shell Scripting ✅
-   │
-   ▼
- Networking Fundamentals ✅
-   │
-   ▼
- Git & GitHub ✅
-   │
-   ▼
- Docker & Containerization 🔄
-   │
-   ▼
- AWS Cloud (Solutions Architect) 🔄
-   │
-   ▼
- Terraform & Infrastructure as Code 🔜
-   │
-   ▼
- GitHub Actions & CI/CD 🔜
-   │
-   ▼
- Kubernetes 🔜
-   │
-   ▼
- Production DevOps Engineer 🎯
-```
 
 ---
 
@@ -147,7 +127,6 @@ I'm not chasing shortcuts. I'm building a real foundation — one concept, one p
 
 ---
 
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -157,40 +136,6 @@ I'm not chasing shortcuts. I'm building a real foundation — one concept, one p
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidamGupta19/RidamGupta19/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-<details>
-<summary>⚙️ Snake Workflow Setup</summary>
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: RidamGupta19
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
@@ -206,24 +151,10 @@ Ship before it's perfect.
 
 ---
 
-## 📚 Learning in Public
-
-Every week I study and document at least one of:
-
-- 🐧 A Linux concept or command deep-dive
-- ☁️ An AWS service — how it works, when to use it
-- 🐳 A Docker or Kubernetes pattern
-- 🔁 A CI/CD technique or pipeline improvement
-- 📐 Infrastructure as Code with Terraform
-
-The goal is not speed. The goal is **depth + consistency**.
-
----
-
 <div align="center">
 
 ### 🌱 Building Today. Shipping Tomorrow. Improving Always.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:10b981,50:0ea5e9,100:6366f1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0d0221,50:2d1b69,100:6a2fbd"/>
 
 </div>
