@@ -61,6 +61,19 @@ I'm not chasing shortcuts. I'm building a real foundation — one concept, one p
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-selfhosted-snowy.vercel.app/api?username=RidamGupta19&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=34d399&text_color=c0caf5&ring_color=7aa2f7"/>
+<img height="180em" src="https://github-readme-stats-selfhosted-snowy.vercel.app/api/top-langs/?username=RidamGupta19&layout=compact&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidamGupta19&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=34d399&currStreakLabel=c0caf5&sideLabels=c0caf5&currStreakNum=c0caf5&sideNums=c0caf5&dates=6b7280"/>
+
+</div>
+
+---
+
 ## 🗺️ My Learning Path
 
 ```
