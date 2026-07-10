@@ -1,0 +1,72 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0221"/>
+      <stop offset="45%" stop-color="#2d1b69"/>
+      <stop offset="100%" stop-color="#6a2fbd"/>
+    </linearGradient>
+    <radialGradient id="planet1" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </radialGradient>
+    <radialGradient id="planet2" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#f0abfc"/>
+      <stop offset="100%" stop-color="#a21caf"/>
+    </radialGradient>
+    <linearGradient id="grid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="40" cy="30" r="1.4" opacity="0.9"/>
+    <circle cx="120" cy="55" r="1" opacity="0.7"/>
+    <circle cx="200" cy="20" r="1.2" opacity="0.8"/>
+    <circle cx="760" cy="40" r="1.3" opacity="0.8"/>
+    <circle cx="820" cy="70" r="1" opacity="0.6"/>
+    <circle cx="650" cy="25" r="1.1" opacity="0.7"/>
+    <circle cx="300" cy="15" r="1" opacity="0.6"/>
+    <circle cx="500" cy="30" r="1.3" opacity="0.8"/>
+  </g>
+
+  <!-- perspective grid floor -->
+  <g stroke="url(#grid)" stroke-width="1.5">
+    <line x1="0" y1="220" x2="450" y2="130"/>
+    <line x1="90" y1="220" x2="430" y2="130"/>
+    <line x1="200" y1="220" x2="415" y2="130"/>
+    <line x1="330" y1="220" x2="440" y2="130"/>
+    <line x1="450" y1="220" x2="450" y2="130"/>
+    <line x1="900" y1="220" x2="450" y2="130"/>
+    <line x1="810" y1="220" x2="470" y2="130"/>
+    <line x1="700" y1="220" x2="485" y2="130"/>
+    <line x1="570" y1="220" x2="460" y2="130"/>
+  </g>
+  <g stroke="#ec4899" stroke-opacity="0.6" stroke-width="1">
+    <line x1="0" y1="200" x2="900" y2="200"/>
+    <line x1="60" y1="180" x2="840" y2="180"/>
+    <line x1="140" y1="163" x2="760" y2="163"/>
+    <line x1="230" y1="150" x2="670" y2="150"/>
+    <line x1="330" y1="140" x2="570" y2="140"/>
+  </g>
+
+  <!-- planets -->
+  <circle cx="140" cy="90" r="34" fill="url(#planet1)" opacity="0.9"/>
+  <circle cx="790" cy="60" r="24" fill="url(#planet2)" opacity="0.9"/>
+  <ellipse cx="790" cy="60" rx="40" ry="8" fill="none" stroke="#f0abfc" stroke-width="2" opacity="0.6" transform="rotate(-20 790 60)"/>
+
+  <!-- name -->
+  <text x="450" y="105" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" filter="url(#glow)" letter-spacing="4">RIDAM GUPTA</text>
+  <text x="450" y="140" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-style="italic" fill="#f472b6" opacity="0.95">Cloud &amp; DevOps Engineer in the making</text>
+  <text x="450" y="175" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" fill="#e0e7ff" letter-spacing="3">DATA STRUCTURES  •  CLOUD  •  DEVOPS</text>
+</svg>
