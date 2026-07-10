@@ -33,7 +33,7 @@
 </td>
 <td align="center" width="30%">
 
-<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Ridam&backgroundColor=b6e3f4" width="170"/>
+<img src="./profile.jpg" width="190" style="border-radius:8px"/>
 
 </td>
 </tr>
