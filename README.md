@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./banner.svg"/>
+<img width="100%" src="./Banner.svg"/>
 
 </div>
 
@@ -33,7 +33,7 @@
 </td>
 <td align="center" width="30%">
 
-<img src="./profile.jpg" width="190" style="border-radius:8px"/>
+<img src="./profile/profile.jpg" width="190" style="border-radius:8px"/>
 
 </td>
 </tr>
@@ -46,9 +46,9 @@
 <div align="center">
 
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=RidamGupta19&hide_border=true&background=0d0221&stroke=6a2fbd&ring=ec4899&fire=f472b6&currStreakLabel=e0e7ff&sideLabels=e0e7ff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af"/>
-<img height="165em" src="https://github-readme-stats-selfhosted-snowy.vercel.app/api?username=RidamGupta19&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ec4899&icon_color=f472b6&text_color=e0e7ff&ring_color=6a2fbd"/>
+<img height="165em" src="./profile/stats.svg"/>
 
-<img height="165em" src="https://github-readme-stats-selfhosted-snowy.vercel.app/api/top-langs/?username=RidamGupta19&layout=compact&hide_border=true&bg_color=0d0221&title_color=ec4899&text_color=e0e7ff&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidamGupta19&layout=compact&hide_border=true&bg_color=0d0221&title_color=ec4899&text_color=e0e7ff&langs_count=8"/>
 <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=RidamGupta19&bg_color=0d0221&color=f472b6&line=ec4899&point=ffffff&area=true&hide_border=true"/>
 
 </div>
