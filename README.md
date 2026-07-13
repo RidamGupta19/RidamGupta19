@@ -28,7 +28,7 @@
 - 🌙 Night owl — most of my real work happens late evening / early morning
 - 🚀 Currently building real projects: Smart Krishi, CareerForge, DropZone
 - 🎥 Exploring AI + content creation on the side
-- 📫 How to reach me: ridamg636@gmail.com
+- 📫 How to reach me: whorhythm@gmail.com & ridamg636@gmail.com
 
 </td>
 <td align="center" width="30%">
